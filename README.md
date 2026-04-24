@@ -1,5 +1,5 @@
 # NAT-and-IPTABLES-forwarding-on-Alt-Linux
-# NAT
+
 # https://habr.com/ru/sandbox/274318/
 
 
